@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm {TISSEC}
+# 👨‍💻 Hi there, I'm Tolga
 
 ### Bulgarian Student & Aspiring Cyber Security Researcher
 I’m a passionate programmer based in Bulgaria, balancing academic studies in software development with a deep-dive into the world of offensive security.
@@ -10,7 +10,7 @@ I’m a passionate programmer based in Bulgaria, balancing academic studies in s
 - 🛡️ **Cyber Security:** I spend my free time hunting vulnerabilities on **HackTheBox** and **TryHackMe**. I love the "adversarial mindset" required to break and secure systems.
 - 🎮 **Game Dev:** Building interactive worlds in **Unity** and **UE5** for fun and logic practice.
 - 🤝 **Open Source:** Enthusiastic about contributing to small projects and helping the community grow.
-
+- 📚 **Fun Fact:** I know 4 languages: Bulgarian, Turkish, English, Russian;
 ---
 
 ## 🛠️ Technologies & Tools
